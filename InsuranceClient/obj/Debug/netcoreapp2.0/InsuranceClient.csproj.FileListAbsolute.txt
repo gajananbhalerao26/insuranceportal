@@ -1,0 +1,11 @@
+D:\Gajanan\Azure\InsuranceClient\InsuranceClient\bin\Debug\netcoreapp2.0\InsuranceClient.deps.json
+D:\Gajanan\Azure\InsuranceClient\InsuranceClient\bin\Debug\netcoreapp2.0\InsuranceClient.runtimeconfig.json
+D:\Gajanan\Azure\InsuranceClient\InsuranceClient\bin\Debug\netcoreapp2.0\InsuranceClient.runtimeconfig.dev.json
+D:\Gajanan\Azure\InsuranceClient\InsuranceClient\bin\Debug\netcoreapp2.0\InsuranceClient.dll
+D:\Gajanan\Azure\InsuranceClient\InsuranceClient\obj\Debug\netcoreapp2.0\InsuranceClient.csprojAssemblyReference.cache
+D:\Gajanan\Azure\InsuranceClient\InsuranceClient\obj\Debug\netcoreapp2.0\InsuranceClient.csproj.CoreCompileInputs.cache
+D:\Gajanan\Azure\InsuranceClient\InsuranceClient\obj\Debug\netcoreapp2.0\InsuranceClient.AssemblyInfoInputs.cache
+D:\Gajanan\Azure\InsuranceClient\InsuranceClient\obj\Debug\netcoreapp2.0\InsuranceClient.AssemblyInfo.cs
+D:\Gajanan\Azure\InsuranceClient\InsuranceClient\bin\Debug\netcoreapp2.0\InsuranceClient.pdb
+D:\Gajanan\Azure\InsuranceClient\InsuranceClient\obj\Debug\netcoreapp2.0\InsuranceClient.dll
+D:\Gajanan\Azure\InsuranceClient\InsuranceClient\obj\Debug\netcoreapp2.0\InsuranceClient.pdb

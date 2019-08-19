@@ -1,0 +1,13 @@
+D:\Gajanan\Azure\InsuranceClient\InsuranceClient
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=InsuranceClient
+--content-root=D:\Gajanan\Azure\InsuranceClient\InsuranceClient
+--file=D:\Gajanan\Azure\InsuranceClient\InsuranceClient\Views\Home\About.cshtml
+--file=D:\Gajanan\Azure\InsuranceClient\InsuranceClient\Views\Home\Contact.cshtml
+--file=D:\Gajanan\Azure\InsuranceClient\InsuranceClient\Views\Home\Create.cshtml
+--file=D:\Gajanan\Azure\InsuranceClient\InsuranceClient\Views\Home\Index.cshtml
+--file=D:\Gajanan\Azure\InsuranceClient\InsuranceClient\Views\Shared\Error.cshtml
+--file=D:\Gajanan\Azure\InsuranceClient\InsuranceClient\Views\Shared\_Layout.cshtml
+--file=D:\Gajanan\Azure\InsuranceClient\InsuranceClient\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\Gajanan\Azure\InsuranceClient\InsuranceClient\Views\_ViewImports.cshtml
+--file=D:\Gajanan\Azure\InsuranceClient\InsuranceClient\Views\_ViewStart.cshtml
